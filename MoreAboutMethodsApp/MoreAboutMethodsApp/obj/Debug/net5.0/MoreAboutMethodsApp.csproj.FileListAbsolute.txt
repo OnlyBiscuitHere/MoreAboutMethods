@@ -1,0 +1,16 @@
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\bin\Debug\net5.0\MoreAboutMethodsApp.exe
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\bin\Debug\net5.0\MoreAboutMethodsApp.deps.json
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\bin\Debug\net5.0\MoreAboutMethodsApp.runtimeconfig.json
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\bin\Debug\net5.0\MoreAboutMethodsApp.runtimeconfig.dev.json
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\bin\Debug\net5.0\MoreAboutMethodsApp.dll
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\bin\Debug\net5.0\ref\MoreAboutMethodsApp.dll
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\bin\Debug\net5.0\MoreAboutMethodsApp.pdb
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\obj\Debug\net5.0\MoreAboutMethodsApp.csproj.AssemblyReference.cache
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\obj\Debug\net5.0\MoreAboutMethodsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\obj\Debug\net5.0\MoreAboutMethodsApp.AssemblyInfoInputs.cache
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\obj\Debug\net5.0\MoreAboutMethodsApp.AssemblyInfo.cs
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\obj\Debug\net5.0\MoreAboutMethodsApp.csproj.CoreCompileInputs.cache
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\obj\Debug\net5.0\MoreAboutMethodsApp.dll
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\obj\Debug\net5.0\ref\MoreAboutMethodsApp.dll
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\obj\Debug\net5.0\MoreAboutMethodsApp.pdb
+C:\Users\h8bmf\source\repos\MoreAboutMethods\MoreAboutMethodsApp\MoreAboutMethodsApp\obj\Debug\net5.0\MoreAboutMethodsApp.genruntimeconfig.cache
